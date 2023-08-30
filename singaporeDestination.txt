@@ -1,0 +1,16 @@
+Country from , Duration , Place , Cruise ship , Route , Price ,date 
+Singapore , 1 Night , One Way Singapore To Port Klang (SUN) , Genting Dream , Singapore - Kuala Lumpur (Port Klang) , 796 , 18 Sep, 2023
+
+Country from , Duration , Place , Cruise ship , Route , Price ,date 
+Singapore , 2 Nights , Kuala Lumpur (Singapore WED Roundtrip) , Genting Dream , Singapore - Kuala Lumpur (Port Klang) - Singapore , 1333 , 29 Sep, 2023 - 1 Oct, 2023
+
+Country from , Duration , Place , Cruise ship , Route , Price ,date 
+Singapore , 2 Nights , High Seas (Singapore FRI Roundtrip) , Genting Dream , Singapore - At Sea - Singapore , 1773 , 15 Oct, 2023 - 17 Oct, 2023
+
+Country from , Duration , Place , Cruise ship , Route , Price ,date 
+Singapore , 3 Nights , Kuala Lumpur & Phuket (Singapore SUN Roundtrip) , Genting Dream , Singapore - Kuala Lumpur (Port Klang) - Phuket - Singapore , 1214 , 25 Nov, 2023 - 28 Nov, 2023
+
+Country from , Duration , Place , Cruise ship , Route , Price ,date 
+Singapore , 3 Nights , Kuala Lumpur & Penang (Singapore SUN Roundtrip) , Genting Dream , Singapore - Kuala Lumpur (Port Klang) - Penang - Singapore , 2033 , 31 Dec, 2023 - 3 Jan, 2024
+
+
